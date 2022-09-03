@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Grocery Price</string>
+    <string name="previous">Previous</string>
+    <string name="filter">Filter</string>
+    <string name="next">Next</string>
+</resources>
